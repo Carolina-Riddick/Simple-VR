@@ -9,12 +9,10 @@
 3. Unity
 4. Visual Studio
 
+### Unity XR Documentation ➡️ https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.4/manual/index.html
 
-### Documentation Unity XR ➡️  https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.4/manual/index.html
+### Project management software ➡️ Trello
 
-### Project management software ➡️  Trello
-
-Notion as project management and note-taking software. 
-It is designed to help members of a company or organization coordinate deadlines, goals and tasks in areas of efficiency and productivity.
 ### ➡️ My personal notion ➡️  ***https://www.notion.so/carolina-riddick/3482d380dc1744628fffcdf943544cf6?v=0c156dda853a40d88e1aaf30d5406820&pvs=4***
-
+Notion as project management and note-taking software. 
+It is designed to help members of a company or organization coordinate deadlines, goals, and tasks in areas of efficiency and productivity.
