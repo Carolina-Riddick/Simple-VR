@@ -1,6 +1,6 @@
-# Simple-VR 
+## Simple-VR 
 
-➡️  Simple VR project which I will be improving and making new assets and features.
+➡️ Simple VR project.
 
 #### **Technologies** 
 
@@ -10,4 +10,4 @@
 4. Visual Studio
 5. Trello as a management software
 
-#### [Unity XR Documentation] (https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.4/manual/index.html)
+#### 📘 [Unity XR Documentation](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.4/manual/index.html)
